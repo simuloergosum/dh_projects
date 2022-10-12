@@ -7,6 +7,7 @@
 - [Austen Said: Patterns of Diction in Jane Austen's Major Novels](https://austen.unl.edu/)
 ## Networks
 - [Visual Correspondence](https://www.correspondence.ie/) uses data visualisation to makes sense of a person's life through their correspondence. Who they wrote to, who wrote to them, when and where - these flashes of detail unveil a rich narrative about people and our past through images
+- [Linked Jazz](https://linkedjazz.org/)
 ## Research
 - [The Zooniverse](https://www.zooniverse.org/) is the world’s largest and most popular platform for people-powered research
 - [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
