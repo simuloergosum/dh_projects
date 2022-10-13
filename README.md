@@ -1,6 +1,6 @@
 # dh_projects
 ## Digitalization
-- [Europeana](https://www.europeana.eu/) provides cultural heritage enthusiasts, professionals, teachers, and researchers with digital access to European cultural heritage material
+- [Europeana](https://www.europeana.eu/) provides *cultural* **heritage** enthusiasts, professionals, teachers, and researchers with digital access to European cultural heritage material
 - [Digital Giza](http://giza.fas.harvard.edu/) is an international collaboration based at Harvard University, aims to assemble and provide access to all archeological records about the most famous site in the world: the Pyramids, surrounding cemeteries and settlements of Giza, Egypt
 ## Text Analysis
 - [Open Books](https://scholar.harvard.edu/stephenosadetz/digitalresearch) is a concept search engine that looks for user-defined ideas, rather than keywords
